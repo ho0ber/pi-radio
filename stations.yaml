@@ -1,0 +1,31 @@
+stations:
+  1:
+    name: Liquid DnB
+    slug: liquiddnb
+  2:
+    name: Drum and Bass
+    slug: drumandbass
+  3:
+    name: LoFi Hip-Hop
+    slug: lofihiphop
+  4:
+    name: ChillHop
+    slug: chillhop
+  5:
+    name: Nightcore
+    slug: nightcore
+  6:
+    name: Future Synthpop
+    slug: futuresynthpop
+  7:
+    name: Synthwave
+    slug: synthwave
+  8:
+    name: Slap House
+    slug: slaphouse
+  9:
+    name: Electropop
+    slug: electropop
+  0:
+    name: Nu Disco
+    slug: nudisco
