@@ -34,6 +34,7 @@ def play_station(station):
 
 def main():
   extra_stations_index = 0
+  play_station(stations["1"])
   while True:
     print("Choose a station:")
     for i, station in stations.items():
