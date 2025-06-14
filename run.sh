@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 sudo apt-get install git mpg321 python3 python3-pip -y
 git pull
